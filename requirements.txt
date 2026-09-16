@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+opencv-python
+tensorflow
+torch
+torchvision
+shap
+mlflow
+fastapi
+uvicorn
+pydantic
+xgboost
